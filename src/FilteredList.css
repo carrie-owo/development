@@ -1,0 +1,16 @@
+.filter-artpiece .row {
+    display: inline-block; 
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 5px;
+    margin-bottom: 25px;
+}
+
+.filter-text {
+    font-size: 10px;
+    font-weight: bold;
+}
+
+h6 {
+    font-weight: bold;
+}

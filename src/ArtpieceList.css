@@ -1,0 +1,57 @@
+#artpiece {
+    display: flex;
+    flex-wrap: wrap;
+    overflow: auto;
+    text-align: center;
+}
+
+.title-text {
+    padding: 1px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    color: black;
+    margin-top: 5px
+}
+.info-text {
+    text-align: center;
+    font-size: 13px;
+    color: black;
+}
+    
+.shown-image {
+    height: 300px;
+    padding-left: 15px;
+    padding-right: 15px;
+    cursor: pointer;
+}
+
+.icon {
+    margin-bottom: 30px;
+    cursor: pointer;
+}
+
+.text {
+    margin-top: 10px;
+}
+
+.large-image {
+    margin-top: 10px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.small-text {
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+.all {
+    font-family: Georgia;
+}
+
+.modal-title {
+    font-family: Georgia;
+    font-size: 20px;
+    font-weight: bold;
+}

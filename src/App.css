@@ -1,0 +1,31 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  font-family: Georgia;
+  text-align: center;
+  height: 100%;
+  padding-left: 5%;
+  background-color: lightblue;
+}
+
+html {
+  background-color: lightblue
+}
+
+.title{
+  margin-top: 10pt;
+  font-size:1.8rem;
+  font-weight: bolder;
+}
+
+.description {
+  padding-left: 15px;
+  text-align: center;
+  font-size: 13px;
+  margin-top: 10px;
+}
+
+.description .bold {
+  font-size: 14px;
+  font-weight: bold;
+}
